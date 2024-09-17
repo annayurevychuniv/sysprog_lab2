@@ -1,0 +1,5 @@
+JS_Helper;[unknown];[unknown];[unknown];[unknown];[unknown];[libmozjs-115.so.115.10.0] 67270756
+gnome-shell;[libmozjs-115.so.115.10.0] 46414114
+perf;_start;__libc_start_main@@GLIBC_2.34;__libc_start_call_main;main;run_builtin;cmd_record;__cmd_record.constprop.0;__evlist__enable.constprop.0;perf_evsel__enable_cpu;perf_evsel__run_ioctl;perf_evsel__ioctl;__GI___ioctl;entry_SYSCALL_64_after_hwframe;do_syscall_64;x64_sys_call;__x64_sys_ioctl;perf_ioctl;_perf_ioctl;perf_event_for_each_child;_perf_event_enable;event_function_call;smp_call_function_single;generic_exec_single;remote_function;event_function;__perf_event_enable;ctx_resched;perf_ctx_enable;x86_pmu_enable;intel_pmu_enable_all;native_write_msr 466067
+perf;_start;__libc_start_main@@GLIBC_2.34;__libc_start_call_main;main;run_builtin;cmd_record;__cmd_record.constprop.0;perf_event__synthesize_comm;perf_event__get_comm_ids.constprop.0;__GI_____strtoll_l_internal 55244171
+swapper;secondary_startup_64_no_verify;x86_64_start_kernel;x86_64_start_reservations;start_kernel;arch_call_rest_init;rest_init;cpu_startup_entry;do_idle;cpuidle_idle_call;cpuidle_select;menu_select 25406976
